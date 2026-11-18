@@ -1,24 +1,29 @@
 # Yarnline
 
-A web app that translates text from one language to another.
+A web app that translates text between languages, including Igbo, Yoruba, Hausa, and English.
 
-**Live demo:** https://yarnline.vercel.app
+**Live demo:** [yarnline.vercel.app](https://yarnline.vercel.app)
+
+## About
+Yarnline helps people translate text between languages, with support for Nigerian languages. It uses a translation API to handle the translations.
 
 ## Features
-- Translate text between languages
-- [Number] supported languages: [list a few, e.g. English, Yoruba, French]
-- [Any extra feature: swap languages, copy button, history, etc.]
+- Translate text between multiple languages
+- Supports Igbo, Yoruba, Hausa, and English, plus other languages
+- Search and social-sharing metadata, so the app shows up properly in search results and shared links
 
 ## Built With
-- HTML, CSS, [JavaScript]
-- [Translation API or library, if any]
+- HTML, CSS, JavaScript
+- [Name of the translation API you used]
 - Deployed on Vercel
 
 ## Run Locally
-1. Clone the repo: `git clone https://github.com/mikkyloud/yarnline.git`
-2. Open the project folder: `cd yarnline`
-3. Open `index.html` in your browser
+```bash
+git clone https://github.com/mikkyloud/yarnline.git
+cd yarnline
+```
+Then open `index.html` in your browser.
 
 ## Author
-Olawuyi Emmanuel, Computer Science student at Anchor University, Lagos
+**Olawuyi Emmanuel**, Computer Science student at Anchor University, Lagos
 GitHub: [@mikkyloud](https://github.com/mikkyloud)
