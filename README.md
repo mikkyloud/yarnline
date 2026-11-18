@@ -14,7 +14,7 @@ Yarnline helps people translate text between languages, with support for Nigeria
 
 ## Built With
 - HTML, CSS, JavaScript
-- [Name of the translation API you used]
+- Anthropic Claude API
 - Deployed on Vercel
 
 ## Run Locally
